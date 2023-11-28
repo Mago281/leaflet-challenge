@@ -1,7 +1,6 @@
 # leaflet-challenge
 
-![image](https://github.com/Mago281/leaflet-challenge/assets/131424690/ad3d8668-17c4-4a48-b836-f3d45d85a972)
-
+![image](https://github.com/Mago281/leaflet-challenge/assets/131424690/6ed85a23-cdde-410c-aafd-4a64eaaa1d72)
 
 **##Background**
 
