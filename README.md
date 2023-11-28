@@ -10,6 +10,7 @@ The USGS was interested in building a new set of tools that would allow them to 
 I have been tasked with developing a way to visualise USGS data that would allow them to better educate the public and other government organisations (and hopefully secure more funding) on issues facing our planet.
 
 This Challenge uses both HTML and JavaScript; the necessary files have been added to Git Hub
+
 (https://github.com/Mago281/leaflet-challenge/tree/main/Leaflet-Part-1). 
 
 ---
