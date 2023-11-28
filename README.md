@@ -9,7 +9,8 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 The USGS was interested in building a new set of tools that would allow them to visualise their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. 
 I have been tasked with developing a way to visualise USGS data that would allow them to better educate the public and other government organisations (and hopefully secure more funding) on issues facing our planet.
 
-This Challenge uses both HTML and JavaScript; the necessary files have been added to Git Hub (https://github.com/Mago281/leaflet-challenge/tree/main/Leaflet-Part-1). 
+This Challenge uses both HTML and JavaScript; the necessary files have been added to Git Hub
+(https://github.com/Mago281/leaflet-challenge/tree/main/Leaflet-Part-1). 
 
 ---
 
