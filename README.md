@@ -15,23 +15,30 @@ This Challenge uses both HTML and JavaScript; the necessary files have been adde
 
 ---
 
-**Part 1: _Create the Earthquake Visualisation_**
+**Part 1: _Created the Earthquake Visualisation_**
 
-Your first task is to visualise an earthquake dataset. Complete the following steps:
+My first task was to visualise an earthquake dataset. I accomplished this by performing the following steps:
 
-Get your dataset. To do so, follow these steps:
+1.  The USGS provides earthquake data in a number of different formats, updated every 5 minutes. I visited the USGS GeoJSON FeedLinks which took me to an external site:
 
-The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualise. The following image is an example screenshot of what appears when you visit this link:
-3-Data
+![image](https://github.com/Mago281/leaflet-challenge/assets/131424690/d7b78720-34db-4b17-a2e0-93c8ff213ec8)
 
-When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualisation. The following image is a sampling of earthquake data in JSON format:
-4-JSON
+    - I chose the "All Earthquakes from the Past 7 Days" dataset to visualise. Clicking on this dataset gave me a JSON representation of that data.  
+      
+      I then used the URL of this JSON to pull in the data for the visualisation. 
+      
+      The following image is a sampling of earthquake data in JSON format:
 
-Import and visualise the data by doing the following:
+      ![image](https://github.com/Mago281/leaflet-challenge/assets/131424690/44b49f50-986f-4dc5-a819-6966c4b0effc)
 
-Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
 
-Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by colour. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in colour.
+2.  Imported and visualised the data by doing the following:
+
+    - Using Leaflet, I created a map that plots all the earthquakes from my dataset based on their longitude and latitude.
+
+        * Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by colour.
+          
+          Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in colour.
 
 _**Hint:** The depth of the earth can be found as the third coordinate for each earthquake.
 _
