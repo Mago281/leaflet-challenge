@@ -13,8 +13,7 @@ This Challenge uses both HTML and JavaScript; the necessary files have been adde
 
 ---
 
-Part 1: Create the Earthquake Visualisation
-2-BasicMap
+**Part 1: _Create the Earthquake Visualisation_**
 
 Your first task is to visualise an earthquake dataset. Complete the following steps:
 
@@ -32,8 +31,8 @@ Using Leaflet, create a map that plots all the earthquakes from your dataset bas
 
 Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by colour. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in colour.
 
-Hint: The depth of the earth can be found as the third coordinate for each earthquake.
-
+_**Hint:** The depth of the earth can be found as the third coordinate for each earthquake.
+_
 Include popups that provide additional information about the earthquake when its associated marker is clicked.
 
 Create a legend that will provide context for your map data.
