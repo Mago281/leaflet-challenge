@@ -1,7 +1,6 @@
 # leaflet-challenge
 
-![Uploading image.png…]()
-
+![image](https://github.com/Mago281/leaflet-challenge/assets/131424690/b3a8ef84-91cc-44eb-8728-f2cc9a1e90a4)
 
 ## Background
 
@@ -20,17 +19,15 @@ My first task was to visualise an earthquake dataset. I accomplished this by per
 
 1.  The USGS provides earthquake data in a number of different formats, updated every 5 minutes. I visited the USGS GeoJSON FeedLinks which took me to an external site:
 
+        ![image](https://github.com/Mago281/leaflet-challenge/assets/131424690/114a98bb-9347-4091-87d1-d0718b9b5002)
     
-    
-
     - I chose the _"All Earthquakes from the Past 7 Days"_ dataset to visualise. Clicking on this dataset gave me a JSON representation of that data.  
       
       I then used the URL of this JSON to pull in the data for the visualisation. 
       
       The following image is a sampling of earthquake data in JSON format:
       
-
-      
+        ![image](https://github.com/Mago281/leaflet-challenge/assets/131424690/1a1cf9ce-2887-4360-aed2-a881ba6ba12e)
 
 
 3.  The next step was to import and visualise the data.
@@ -49,6 +46,7 @@ My first task was to visualise an earthquake dataset. I accomplished this by per
 
     - My visualisation looks like the map appended below:
   
-          
+         ![image](https://github.com/Mago281/leaflet-challenge/assets/131424690/76f0ddf7-4abb-44f1-9d50-92b3deba3b61)
+ 
 
 
