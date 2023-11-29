@@ -19,7 +19,8 @@ My first task was to visualise an earthquake dataset. I accomplished this by per
 
 1.  The USGS provides earthquake data in a number of different formats, updated every 5 minutes. I visited the USGS GeoJSON FeedLinks which took me to an external site:
 
-        ![image](https://github.com/Mago281/leaflet-challenge/assets/131424690/114a98bb-9347-4091-87d1-d0718b9b5002)
+    ![image](https://github.com/Mago281/leaflet-challenge/assets/131424690/7c2c4b33-9a72-4826-add3-40b644ca52cb)
+
     
     - I chose the _"All Earthquakes from the Past 7 Days"_ dataset to visualise. Clicking on this dataset gave me a JSON representation of that data.  
       
@@ -38,7 +39,7 @@ My first task was to visualise an earthquake dataset. I accomplished this by per
           
           Earthquakes with higher magnitudes will appear larger, and earthquakes with greater depth will appear darker in colour.
 
-        _**Hint: The depth of the earth can be found as the third coordinate for each earthquake.**_
+          _**Hint: The depth of the earth can be found as the third coordinate for each earthquake.**_
 
     - Pop-ups that provide additional information about the earthquake, were displayed when its associated marker is clicked.
 
