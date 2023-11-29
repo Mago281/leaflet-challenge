@@ -38,7 +38,7 @@ My first task was to visualise an earthquake dataset. I accomplished this by per
           
           Earthquakes with higher magnitudes will appear larger, and earthquakes with greater depth will appear darker in colour.
 
-_**Hint: The depth of the earth can be found as the third coordinate for each earthquake.**_
+        _**Hint: The depth of the earth can be found as the third coordinate for each earthquake.**_
 
     - Pop-ups that provide additional information about the earthquake, were displayed when its associated marker is clicked.
 
